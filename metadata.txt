@@ -1,0 +1,17 @@
+[general]
+name=Layer Theme Manager
+description=Manage QGIS layer/map themes with rename, duplicate, edit, import, export, clipboard, and batch tools.
+version=1.1.0
+qgisMinimumVersion=3.0
+author=danzig666
+email=
+about=Fast manager for the map themes of the current QGIS project: create, activate, edit, rename, duplicate, batch rename, delete, import/export and copy/paste themes. Marks the theme that matches the current map, searches by theme or layer name and remembers its window size and position across monitor and resolution changes.
+tracker=https://github.com/danzig666/qgis-layer-theme-manager/issues
+repository=https://github.com/danzig666/qgis-layer-theme-manager
+category=Layers
+homepage=https://github.com/danzig666/qgis-layer-theme-manager
+icon=icon.svg
+experimental=False
+deprecated=False
+changelog=1.1.0 Much faster theme list and editor, auto refresh, current-theme marker, layer-name search, batch rename with preview, monitor-aware window state, keyboard shortcuts and context menu.
+tags=layers,themes,map themes,visibility,legend
